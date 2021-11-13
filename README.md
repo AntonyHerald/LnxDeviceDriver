@@ -1,5 +1,5 @@
 # LnxDeviceDriver
-Linux Device Driver in C
+Linux Device Driver using C programming language.
 ### Important - Write-up on Kernel Driver usage, updates into kernel when loaded
 
 After creating the character device, you wouldnt be able to access it from the user space. 
